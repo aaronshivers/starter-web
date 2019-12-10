@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Fred Jenkins f.jenkins@gmail.com
 
 # THANKS
 
