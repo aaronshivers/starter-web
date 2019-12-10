@@ -16,3 +16,6 @@ This is a simple web project...
 
 ## How To Contribute
 
+### Copyright
+
+Copyright 2099 Git Masterson
