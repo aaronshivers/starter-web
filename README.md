@@ -16,6 +16,8 @@ This is a simple web project...
 
 ## How To Contribute
 
+Pease fork this repository, then issue pull requests for review
+
 ### Copyright
 
 Copyright 2099 Git Masterson
